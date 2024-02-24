@@ -4,7 +4,7 @@ echo Hello world
 
 # while printing, sometimes to grab the attention of users, we might need to print in some colors
 # syntax : echo -e "\e[COLmMESSAGE\e[0m"
-# -e - enabl colors
+# -e - enable colors
 # \e[COLm - To enable certain colors
 # \e[0m - To disable color which is enabled
 # COL stands for color and possible colors are RED(31), GREEN(32), YELLOW(33), BLUE(34), MAGENTA(35), CYAN(36)
