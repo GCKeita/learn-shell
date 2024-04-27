@@ -11,6 +11,4 @@ print_arguments() {
   echo No of Arguments - $#
 }
 
-
 print_arguments abc 123 xyz
-
