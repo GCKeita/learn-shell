@@ -1,5 +1,5 @@
 sample() {
-  ech Hello
+  echo Hello
   return 1
   echo Bye
 }
